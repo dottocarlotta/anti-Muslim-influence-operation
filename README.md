@@ -18,8 +18,8 @@ Network analysis was performed on Gephi, resizing the nodes based on the in-degr
 
 ## Data
 
-[Data](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/tree/master/data) was scraped from the Twitter API.
+[Data](https://github.com/dottocarlotta/anti-Muslim-influence-operation/blob/main/UnitedAgainstJehad%20copy.csv) was scraped from the Twitter API.
 
 ## Analysis
 
-• [This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #UnitedAgainstJehad hashtag. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
+• [This document](https://github.com/dottocarlotta/anti-Muslim-influence-operation/blob/main/hash_analysis.ipynb) walks through the data analysis of #UnitedAgainstJehad hashtag. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
